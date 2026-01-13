@@ -1,10 +1,10 @@
 [
     {
-        "label": "course_name",
+        "label": "course",
         "kind": 5,
         "importPath": "helloWorld.app",
         "description": "helloWorld.app",
-        "peekOfCode": "course_name = \"Python Programming\"\nprint(len(course))\nprint(course[0])\nprint(course[-1])",
+        "peekOfCode": "course = \"Python Programming\"\nprint(len(course))\nprint(course[0])\nprint(course[-1])",
         "detail": "helloWorld.app",
         "documentation": {}
     }
