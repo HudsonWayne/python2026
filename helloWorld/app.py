@@ -1,3 +1,4 @@
 course_name = "Python Programming"
 print(len(course))
-course[0]
+print(course[0])
+print(course[-1])
