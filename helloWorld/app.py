@@ -1,4 +1,3 @@
-x = 1
-y = 2
+students_count = 1000
 
-unit_price = 3
+print(students_count)
