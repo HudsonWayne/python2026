@@ -1,0 +1,29 @@
+[
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "helloWorld.app",
+        "description": "helloWorld.app",
+        "peekOfCode": "x = 1\ny = 2\nunit_price = 3",
+        "detail": "helloWorld.app",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "helloWorld.app",
+        "description": "helloWorld.app",
+        "peekOfCode": "y = 2\nunit_price = 3",
+        "detail": "helloWorld.app",
+        "documentation": {}
+    },
+    {
+        "label": "unit_price",
+        "kind": 5,
+        "importPath": "helloWorld.app",
+        "description": "helloWorld.app",
+        "peekOfCode": "unit_price = 3",
+        "detail": "helloWorld.app",
+        "documentation": {}
+    }
+]
