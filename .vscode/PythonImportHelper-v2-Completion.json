@@ -1,37 +1,10 @@
 [
     {
-        "label": "students_count",
-        "kind": 5,
-        "importPath": "helloWorld.app",
-        "description": "helloWorld.app",
-        "peekOfCode": "students_count = 1000\nrating = 4.99\nis_published = True\ncourse_name = \"Python Programming\"\nprint(students_count)",
-        "detail": "helloWorld.app",
-        "documentation": {}
-    },
-    {
-        "label": "rating",
-        "kind": 5,
-        "importPath": "helloWorld.app",
-        "description": "helloWorld.app",
-        "peekOfCode": "rating = 4.99\nis_published = True\ncourse_name = \"Python Programming\"\nprint(students_count)",
-        "detail": "helloWorld.app",
-        "documentation": {}
-    },
-    {
-        "label": "is_published",
-        "kind": 5,
-        "importPath": "helloWorld.app",
-        "description": "helloWorld.app",
-        "peekOfCode": "is_published = True\ncourse_name = \"Python Programming\"\nprint(students_count)",
-        "detail": "helloWorld.app",
-        "documentation": {}
-    },
-    {
         "label": "course_name",
         "kind": 5,
         "importPath": "helloWorld.app",
         "description": "helloWorld.app",
-        "peekOfCode": "course_name = \"Python Programming\"\nprint(students_count)",
+        "peekOfCode": "course_name = \"Python Programming\"\nprint(len(course))\ncourse[0]",
         "detail": "helloWorld.app",
         "documentation": {}
     }
