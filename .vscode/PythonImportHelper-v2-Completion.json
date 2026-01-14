@@ -1,10 +1,10 @@
 [
     {
-        "label": "temperature",
+        "label": "age",
         "kind": 5,
         "importPath": "helloWorld.app",
         "description": "helloWorld.app",
-        "peekOfCode": "temperature = 35\nif temperature > 30:\n    print(\"It's warm\")\n    print(\"Drink water\")\nelif temperature > 20:\n    print(\"It's nice\")\nelse:\n    print(\"It's cold\")\nprint(\"Done\")",
+        "peekOfCode": "age = 22\nif age >= 18:\n    print (\"Eligible\")\nelse:\n    print(\"Not eligible\")",
         "detail": "helloWorld.app",
         "documentation": {}
     }
