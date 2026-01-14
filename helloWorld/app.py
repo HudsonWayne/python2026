@@ -1,7 +1,2 @@
-high_income = True
-good_credit = True
-
-if high_income and good_credit:
-    print("Eligible")
-else:
-    print("Not Eligible")
+for num in range(3):
+    print ("Attempt", number)
