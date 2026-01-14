@@ -1,4 +1,2 @@
-first = "Wayne"
-last = "Hamedani"
-full = first + " " + last
-print(full)
+x = 1
+x = 1.1

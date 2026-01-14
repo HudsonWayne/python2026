@@ -1,28 +1,19 @@
 [
     {
-        "label": "first",
+        "label": "x",
         "kind": 5,
         "importPath": "helloWorld.app",
         "description": "helloWorld.app",
-        "peekOfCode": "first = \"Wayne\"\nlast = \"Hamedani\"\nfull = first + \" \" + last\nprint(full)",
+        "peekOfCode": "x = 1\nx = 1.1",
         "detail": "helloWorld.app",
         "documentation": {}
     },
     {
-        "label": "last",
+        "label": "x",
         "kind": 5,
         "importPath": "helloWorld.app",
         "description": "helloWorld.app",
-        "peekOfCode": "last = \"Hamedani\"\nfull = first + \" \" + last\nprint(full)",
-        "detail": "helloWorld.app",
-        "documentation": {}
-    },
-    {
-        "label": "full",
-        "kind": 5,
-        "importPath": "helloWorld.app",
-        "description": "helloWorld.app",
-        "peekOfCode": "full = first + \" \" + last\nprint(full)",
+        "peekOfCode": "x = 1.1",
         "detail": "helloWorld.app",
         "documentation": {}
     }
