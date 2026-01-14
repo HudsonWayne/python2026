@@ -1,2 +1,2 @@
 for num in range(3):
-    print ("Attempt", number)
+    print ("Attempt", number + 1 , (number + 1) * ".")
