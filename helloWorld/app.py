@@ -1,2 +1,4 @@
-course = "Python \"Programming"
-print(course)
+first = "Wayne"
+last = "Hamedani"
+full = first + " " + last
+print(full)
