@@ -1,19 +1,10 @@
 [
     {
-        "label": "x",
+        "label": "temperature",
         "kind": 5,
         "importPath": "helloWorld.app",
         "description": "helloWorld.app",
-        "peekOfCode": "x = 1\nx = 1.1",
-        "detail": "helloWorld.app",
-        "documentation": {}
-    },
-    {
-        "label": "x",
-        "kind": 5,
-        "importPath": "helloWorld.app",
-        "description": "helloWorld.app",
-        "peekOfCode": "x = 1.1",
+        "peekOfCode": "temperature = 35\nif temperature > 30:\n    print(\"It's warm\")\n    print(\"Drink water\")\nprint(\"Done\")",
         "detail": "helloWorld.app",
         "documentation": {}
     }
