@@ -1,5 +1,7 @@
-age = 22
-if age >= 18:
-    print ("Eligible")
+high_income = True
+good_credit = True
+
+if high_income and good_credit:
+    print("Eligible")
 else:
-    print("Not eligible")
+    print("Not Eligible")

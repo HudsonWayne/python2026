@@ -1,10 +1,19 @@
 [
     {
-        "label": "age",
+        "label": "high_income",
         "kind": 5,
         "importPath": "helloWorld.app",
         "description": "helloWorld.app",
-        "peekOfCode": "age = 22\nif age >= 18:\n    print (\"Eligible\")\nelse:\n    print(\"Not eligible\")",
+        "peekOfCode": "high_income = True\ngood_credit = True\nif high_income and good_credit:\n    print(\"Eligible\")\nelse:\n    print(\"Not Eligible\")",
+        "detail": "helloWorld.app",
+        "documentation": {}
+    },
+    {
+        "label": "good_credit",
+        "kind": 5,
+        "importPath": "helloWorld.app",
+        "description": "helloWorld.app",
+        "peekOfCode": "good_credit = True\nif high_income and good_credit:\n    print(\"Eligible\")\nelse:\n    print(\"Not Eligible\")",
         "detail": "helloWorld.app",
         "documentation": {}
     }
