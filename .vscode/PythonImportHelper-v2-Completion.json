@@ -7,5 +7,50 @@
         "peekOfCode": "name = input(\"enter your name\")\nprint(\"Youa are\", name)",
         "detail": "input",
         "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "strings",
+        "description": "strings",
+        "peekOfCode": "name = \"Wayne\"\nprint(type(name))\nage = 24\nprint(type(age))\nprint(\"Your Age is:\" + str(age))\nage = age + 5\nage = str (age)\nprint(type(age))\nage = age + 5",
+        "detail": "strings",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "strings",
+        "description": "strings",
+        "peekOfCode": "age = 24\nprint(type(age))\nprint(\"Your Age is:\" + str(age))\nage = age + 5\nage = str (age)\nprint(type(age))\nage = age + 5",
+        "detail": "strings",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "strings",
+        "description": "strings",
+        "peekOfCode": "age = age + 5\nage = str (age)\nprint(type(age))\nage = age + 5",
+        "detail": "strings",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "strings",
+        "description": "strings",
+        "peekOfCode": "age = str (age)\nprint(type(age))\nage = age + 5",
+        "detail": "strings",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "strings",
+        "description": "strings",
+        "peekOfCode": "age = age + 5",
+        "detail": "strings",
+        "documentation": {}
     }
 ]
