@@ -1,20 +1,11 @@
 [
     {
-        "label": "high_income",
+        "label": "name",
         "kind": 5,
-        "importPath": "helloWorld.app",
-        "description": "helloWorld.app",
-        "peekOfCode": "high_income = True\ngood_credit = True\nif high_income and good_credit:\n    print(\"Eligible\")\nelse:\n    print(\"Not Eligible\")",
-        "detail": "helloWorld.app",
-        "documentation": {}
-    },
-    {
-        "label": "good_credit",
-        "kind": 5,
-        "importPath": "helloWorld.app",
-        "description": "helloWorld.app",
-        "peekOfCode": "good_credit = True\nif high_income and good_credit:\n    print(\"Eligible\")\nelse:\n    print(\"Not Eligible\")",
-        "detail": "helloWorld.app",
+        "importPath": "input",
+        "description": "input",
+        "peekOfCode": "name = input(\"enter your name\")\nprint(\"Youa are\", name)",
+        "detail": "input",
         "documentation": {}
     }
 ]
